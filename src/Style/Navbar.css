@@ -1,0 +1,238 @@
+.text:hover{
+    border-bottom: 3px solid #FFA300;
+}
+.login{
+    text-decoration-line: none;
+    color: #FFA300;
+font-family: Poppins;
+    stroke-width: 2px;
+}
+.text{
+        text-decoration-line: none;
+    color: #535353;
+font-family: Poppins;
+    stroke-width: 2px;
+stroke: #FFA300;
+}
+.header{
+    color: #535353;
+font-family: Poppins;
+    stroke-width: 2px;
+stroke: #FFA300;
+   /* display: flex;
+    justify-content: space-evenly;
+    align-items: center; */
+    width: 1517px;
+    height: 50px;
+    background: #FFF;
+    box-shadow: 0px 4px 15px 0px rgba(0, 0, 0, 0.10);
+    padding-top: 18px;
+}
+.trust{
+    text-align: center;
+    color: #333;
+font-family: Be Vietnam Pro;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.img{
+margin-left: 56px;
+}
+.request{
+    height: 31px;
+    width: 127px;
+    border: #FFA300;
+    color: #FFF;
+    border-radius: 8px;
+    background: #FFA300;
+    margin-left: 65px;
+}
+.first{
+       width: 1440px;
+    margin-left: 56px;
+}
+.let{
+    font-weight: 700;
+    font-size: 29px;
+    width: 903px;
+    color: #333;
+font-family: Be Vietnam Pro;
+line-height: normal;
+}
+.protection{
+    margin-left: 87px;
+    display: flex;
+    align-content: space-between;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.img1{
+    width: 493px;
+height: 348px;
+flex-shrink: 0;
+}
+.para{
+    margin-left: 50px;
+    width: 744px;
+    color: #535353;
+text-align: justify;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.second{
+    height: 600px;
+     width: 1517px;
+    /* margin-left: 56px; */
+    background: #262833;
+}
+.second2{
+    margin-left: 56px;
+}
+.indu{
+    color: #F0F0F0;
+font-family: Be Vietnam Pro;
+font-size: 28px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.learn{
+    color: #FFA300;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.img2{
+    margin-left: 56px;
+}
+.third{
+    margin-top: 100px;
+    text-align: center;
+}
+.why{
+    color: #333;
+font-family: Be Vietnam Pro;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.the{
+    color: #333;
+font-family: Be Vietnam Pro;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.para1{
+    width: 1389px;
+    color: #535353;
+text-align: center;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.third{
+    width: 1440px;
+    margin-left: 56px;
+}
+.box1{
+    align-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.box{
+    padding-top: 21px;
+    /* margin-top: 10px; */
+    /* display: flex; */
+    align-content: center;
+    text-align: center;
+    width: 360px;
+    height: 264px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    background: #FFF;
+    box-shadow: 0px 4px 15px 0px rgba(0, 0, 0, 0.10);
+
+}
+.img3{
+    margin-top: 103px;
+}
+.fifth{
+    width: 1440px;
+    margin-left: 56px;
+    text-align: center;
+}
+.box4{
+    justify-content: space-around;
+    display: flex;
+}
+.box3{
+    padding-top: 34px;
+    border-radius: 8px;
+background: #FFF;
+box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.10);
+    width: 150px;
+height: 120px;
+flex-shrink: 0;
+}
+.box6{
+    width: 525px;
+height: 330px;
+flex-shrink: 0;
+border-radius: 8px;
+background: #FFF;
+box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.25);
+}
+.box7{
+    display: flex;
+}
+.conv{
+    
+font-family: Be Vietnam Pro;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.demo{
+    color: #FFF;
+    width: 180px;
+height: 50px;
+flex-shrink: 0;
+border-radius: 8px;
+background: #FFA300;
+border-color: #FFF;
+}
+.cp{
+    padding-top: 20px;
+    text-align: center;
+    width: 1517px;
+height: 50px;
+flex-shrink: 0;
+/* opacity: 0.3; */
+background: #6F8796;
+color: #F0F0F0;
+font-family: Nunito Sans;
+font-size: 14px;
+font-style: normal;
+font-weight: 600;
+line-height: 22px; /* 157.143% */
+}
